@@ -1,2 +1,2 @@
-# coursea-website
+# coursera-website
 summer course
